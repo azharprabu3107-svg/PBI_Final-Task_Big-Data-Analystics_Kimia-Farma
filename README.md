@@ -99,7 +99,8 @@ LEFT JOIN `rakamin_kf_analytics.kimia_farma.kf_product` p
 ### **02: Dashboard Design**
 Setelah data dipersiapkan, proses selanjutnya adalah mendesain dashboard untuk business performance analysis menggunakan Google Looker Studio. Ini link untuk dashboard interaktif : [Interaktif Dashboard](https://datastudio.google.com/u/0/reporting/c0901f06-c4dc-4f39-8e7a-697216158e6e/page/p_rgj2qvgz2d)
 
-![image]()
+![image](https://github.com/azharprabu3107-svg/PBI_Final-Task_Big-Data-Analystics_Kimia-Farma/blob/main/dashboard%201.PNG)
+![image](https://github.com/azharprabu3107-svg/PBI_Final-Task_Big-Data-Analystics_Kimia-Farma/blob/main/dashboard%202.PNG)
 
 **Berdasarkan analisis yang dilakukan dengan menggunakan dashboard, berikut informasi utama yang dapat saya simpulkan :**
 1. Provinsi Jawa Barat secara signifikan mengungguli wilayah lain dalam penjualan bersih (nett sales) dalam volume transaksi (transaction volume).
