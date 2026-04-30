@@ -1,1 +1,3 @@
-# PBI_Final-Task_Big-Data-Analystics_Kimia-Farma
+**Kimia Farma Business Performance Analysis Dashboard**
+
+Tools : |📁 GitHub |📝 SQL Query |💻 Google BigQuery |📊 Google Looker Studio
